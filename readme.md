@@ -232,22 +232,4 @@ FILE_FORMAT = (FORMAT_NAME= 'csv_file_format');
 
 With the successful completion of the final ETL process for Spotify data, we have now seamlessly integrated and stored the refined dataset within Snowflake, a robust and scalable data warehousing solution. This accomplishment opens up a multitude of opportunities for leveraging the data's insights. Data scientists and analysts can now harness this enriched dataset to develop predictive models, gaining invaluable insights into musical trends and user preferences. Additionally, the data can be harnessed through powerful visualization tools like Power BI, empowering stakeholders to create dynamic and interactive dashboards that offer a comprehensive view of the music landscape. This achievement marks a significant milestone, paving the way for a deeper understanding and strategic utilization of the vast musical repository we've meticulously curated.
 
-## Contributing
 
-Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are greatly appreciated. If you have a suggestion that would make this better, please fork the repo and create a pull request. Don't forget to give the project a star! Thanks again!
-
-1. Fork this repository.
-2. Create a branch: `git checkout -b <branch_name>`.
-3. Make your changes and commit them: `git commit -m '<commit_message>'`
-4. Push to the original branch: `git push origin <project_name>/<location>`
-5. Create the pull request.
-
-Alternatively see the GitHub documentation on [creating a pull request](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request).
-
-## License
-
-Distributed under the MIT License. See LICENSE.txt for more information.
-# Spotify-ETL-Pipeline-using-Snowflake
-# Spotify-ETL-Pipeline-using-Snowflake
-# Spotify-ETL-Pipeline-using-Snowflake
-# Spotify-ETL-Pipeline-using-Snowflake
